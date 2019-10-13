@@ -26,7 +26,7 @@ Links were accessed on {mm/dd/yyyy}.
 
 ## Tool Versions
 * Synthesizer V Build {number} on macOS {macOS version}
-* {Singer1} Build {number}
+* {Singer1} Build {number}/{Singer1 version display text}
 * REAPER v{number}
 
 ## Notice
